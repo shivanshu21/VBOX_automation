@@ -1,0 +1,1 @@
+javac -d bin -cp lib/vboxjws.jar; gui.java vbox_automation.java
